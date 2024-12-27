@@ -11,7 +11,7 @@ import SwiftUI
 struct ship_pitching_resonanceApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ResonanceControlView()
         }
     }
 }
